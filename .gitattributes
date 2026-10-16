@@ -5,3 +5,5 @@
 *.svg text eol=lf
 *.bat text eol=crlf
 *.png binary
+*.docx binary
+*.pdf binary

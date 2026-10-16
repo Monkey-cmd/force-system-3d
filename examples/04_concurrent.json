@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "units": {
+    "force": "N",
+    "length": "m"
+  },
+  "origin": [
+    1,
+    2,
+    1
+  ],
+  "free_couple": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "forces": [
+    {
+      "name": "F1",
+      "components": [
+        30.0,
+        0.0,
+        0.0
+      ],
+      "point": [
+        1.0,
+        2.0,
+        1.0
+      ]
+    },
+    {
+      "name": "F2",
+      "components": [
+        0.0,
+        40.0,
+        0.0
+      ],
+      "point": [
+        1.0,
+        2.0,
+        1.0
+      ]
+    },
+    {
+      "name": "F3",
+      "components": [
+        0.0,
+        0.0,
+        50.0
+      ],
+      "point": [
+        1.0,
+        2.0,
+        1.0
+      ]
+    }
+  ]
+}

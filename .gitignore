@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.deps/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+force_system.json
+report.txt
+launcher_test.txt

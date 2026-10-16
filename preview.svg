@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="549" viewBox="0 0 808 549">
+<defs><marker id="head" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="context-stroke"/></marker></defs>
+<rect width="100%" height="100%" fill="#f9fbfd"/>
+<polyline points="123.737,521.789 365.745,364.879" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="118" y="538" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="118" dy="0">-1</tspan>
+</text>
+<polyline points="192.862,543.763 434.870,386.853" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="182" y="560" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="182" dy="0">-0.5</tspan>
+</text>
+<polyline points="261.986,565.737 503.995,408.827" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="259" y="582" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="259" dy="0">0</tspan>
+</text>
+<polyline points="331.111,587.711 573.120,430.801" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="323" y="604" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="323" dy="0">0.5</tspan>
+</text>
+<polyline points="400.236,609.685 642.244,452.775" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="397" y="626" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="397" dy="0">1</tspan>
+</text>
+<polyline points="469.361,631.659 711.369,474.749" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="461" y="648" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="461" dy="0">1.5</tspan>
+</text>
+<polyline points="123.737,521.789 469.361,631.659" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="118" y="538" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="118" dy="0">-1</tspan>
+</text>
+<polyline points="172.139,490.407 517.762,600.277" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="161" y="506" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="161" dy="0">-0.5</tspan>
+</text>
+<polyline points="220.540,459.025 566.164,568.895" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="218" y="475" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="218" dy="0">0</tspan>
+</text>
+<polyline points="268.942,427.643 614.566,537.513" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="261" y="444" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="261" dy="0">0.5</tspan>
+</text>
+<polyline points="317.344,396.261 662.967,506.131" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="314" y="412" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="314" dy="0">1</tspan>
+</text>
+<polyline points="365.745,364.879 711.369,474.749" fill="none" stroke="#e2e8f0" stroke-width="1.0" stroke-linecap="round"/>
+<text x="358" y="381" fill="#9aa8ba" font-family="Segoe UI, sans-serif" font-size="13.330053300533004">
+<tspan x="358" dy="0">1.5</tspan>
+</text>
+<polyline points="220.540,308.649 566.164,418.518" fill="none" stroke="#d88c8c" stroke-width="1.2" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="571" y="421" fill="#d88c8c" font-family="Segoe UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="571" dy="0">X</tspan>
+</text>
+<polyline points="261.986,415.360 503.995,258.450" fill="none" stroke="#86b79c" stroke-width="1.2" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="509" y="260" fill="#86b79c" font-family="Segoe UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="509" dy="0">Y</tspan>
+</text>
+<polyline points="358.790,502.973 358.790,127.032" fill="none" stroke="#85a6d5" stroke-width="1.2" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="364" y="129" fill="#85a6d5" font-family="Segoe UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="364" dy="0">Z</tspan>
+</text>
+<ellipse cx="455.59316937648543" cy="289.83240625450645" rx="5.0" ry="5.0" fill="#2d6cdf" stroke="#ffffff"/>
+<polyline points="455.593,289.832 510.620,307.325" fill="none" stroke="#2d6cdf" stroke-width="2.6" stroke-linecap="round" marker-end="url(#head)"/>
+<polyline points="354.032,313.645 289.538,337.599" fill="none" stroke="#cf426c" stroke-width="3.2" stroke-linecap="round" marker-end="url(#head)"/>
+<polyline points="310.176,329.933 299.857,333.766" fill="none" stroke="#cf426c" stroke-width="3.2" stroke-linecap="round" marker-end="url(#head)"/>
+<polyline points="351.313,304.191 351.986,305.256 352.740,306.652 353.545,308.325 354.370,310.210 355.181,312.230 355.947,314.306 356.637,316.356 357.223,318.299 357.684,320.057 357.999,321.562 358.158,322.752 358.153,323.582 357.985,324.018 357.660,324.043 357.192,323.656 356.598,322.873 355.903,321.724 355.133,320.255 354.320,318.524 353.496,316.600 352.693,314.558 351.943,312.481 351.276,310.449 350.718,308.544 350.291,306.842 350.012,305.408" fill="none" stroke="#cf426c" stroke-width="1.5" stroke-linecap="round" marker-end="url(#head)"/>
+<ellipse cx="354.0324591858419" cy="313.64470355183596" rx="6.0" ry="6.0" fill="#00856a" stroke="#ffffff"/>
+<polyline points="358.790,352.596 455.593,289.832" fill="none" stroke="#c4cdd9" stroke-width="0.9" stroke-linecap="round" stroke-dasharray="4,5"/>
+<polyline points="214.157,365.596 533.872,246.850" fill="none" stroke="#00856a" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,5"/>
+<polyline points="354.032,313.645 437.958,282.474" fill="none" stroke="#00856a" stroke-width="3.8" stroke-linecap="round" marker-end="url(#head)"/>
+<polyline points="358.790,352.596 354.032,313.645" fill="none" stroke="#92b8ac" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="4,5"/>
+<ellipse cx="358.78979128327865" cy="352.59638921501124" rx="6.0" ry="6.0" fill="#172b45" stroke="#ffffff"/>
+<polyline points="358.790,352.596 358.790,202.220" fill="none" stroke="#c4cdd9" stroke-width="0.9" stroke-linecap="round" stroke-dasharray="4,5"/>
+<polyline points="358.790,352.596 497.039,396.544" fill="none" stroke="#c4cdd9" stroke-width="0.9" stroke-linecap="round" stroke-dasharray="4,5"/>
+<polyline points="358.790,202.220 387.688,183.483" fill="none" stroke="#e89132" stroke-width="2.6" stroke-linecap="round" marker-end="url(#head)"/>
+<ellipse cx="358.78979128327865" cy="202.21984656406545" rx="5.0" ry="5.0" fill="#e89132" stroke="#ffffff"/>
+<ellipse cx="497.03934275299514" cy="396.54420321202247" rx="5.0" ry="5.0" fill="#8b5cc2" stroke="#ffffff"/>
+<polyline points="497.039,396.544 497.039,366.617" fill="none" stroke="#8b5cc2" stroke-width="2.6" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="445" y="317" fill="#2d6cdf" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="445" dy="0">P1</tspan>
+</text>
+<text x="473" y="292" fill="#2d6cdf" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="473" dy="0">F1 · 80 N</tspan>
+</text>
+<text x="132" y="323" fill="#cf426c" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="132" dy="0">M_parallel (N·m)</tspan>
+</text>
+<text x="348" y="299" fill="#00856a" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="348" dy="0">A</tspan>
+</text>
+<text x="415" y="267" fill="#00856a" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="415" dy="0">R (N)</tspan>
+</text>
+<text x="352" y="380" fill="#172b45" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="352" dy="0">O</tspan>
+</text>
+<text x="350" y="168" fill="#e89132" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="350" dy="0">F2 · 60 N</tspan>
+</text>
+<text x="348" y="229" fill="#e89132" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="348" dy="0">P2</tspan>
+</text>
+<text x="487" y="424" fill="#8b5cc2" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="487" dy="0">P3</tspan>
+</text>
+<text x="460" y="352" fill="#8b5cc2" font-family="Microsoft YaHei UI, sans-serif" font-size="16.662566625666255" font-weight="bold">
+<tspan x="460" dy="0">F3 · 40 N</tspan>
+</text>
+<ellipse cx="748.0" cy="484.0" rx="45.0" ry="45.0" fill="#ffffff" stroke="#e5ebf2"/>
+<polyline points="748.000,484.000 772.575,491.812" fill="none" stroke="#d36969" stroke-width="2.0" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="774" y="500" fill="#d36969" font-family="Segoe UI, sans-serif" font-size="14.99630996309963" font-weight="bold">
+<tspan x="774" dy="0">X</tspan>
+</text>
+<polyline points="748.000,484.000 765.207,472.843" fill="none" stroke="#389c73" stroke-width="2.0" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="766" y="476" fill="#389c73" font-family="Segoe UI, sans-serif" font-size="14.99630996309963" font-weight="bold">
+<tspan x="766" dy="0">Y</tspan>
+</text>
+<polyline points="748.000,484.000 748.000,457.270" fill="none" stroke="#4385cd" stroke-width="2.0" stroke-linecap="round" marker-end="url(#head)"/>
+<text x="744" y="457" fill="#4385cd" font-family="Segoe UI, sans-serif" font-size="14.99630996309963" font-weight="bold">
+<tspan x="744" dy="0">Z</tspan>
+</text>
+<text x="18" y="34" fill="#8190a6" font-family="Microsoft YaHei UI, sans-serif" font-size="14.99630996309963">
+<tspan x="18" dy="0">ORTHOGRAPHIC  /  三维正交视图</tspan>
+</text>
+<text x="18" y="529" fill="#76859a" font-family="Microsoft YaHei UI, sans-serif" font-size="14.99630996309963">
+<tspan x="18" dy="0">左键旋转  ·  滚轮缩放  ·  右键平移  ·  双击复位</tspan>
+</text>
+</svg>

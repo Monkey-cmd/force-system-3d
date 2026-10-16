@@ -1,0 +1,2 @@
+# Python standard library only. No pip packages are required.
+# Python 3.10+ with the Tcl/Tk (tkinter) component is recommended.

@@ -9,7 +9,7 @@
 - [Word 可编辑版](docs/空间任意力系简化程序设计报告.docx)
 - [PDF 阅读版](docs/空间任意力系简化程序设计报告.pdf)
 
-报告共 12 页，包含力系简化原理、两张程序流程图、使用说明，以及单一合力、力螺旋、纯力偶和平衡力系四类运行实例。Word 版保留可编辑的数学公式。
+报告共 15 页，包含力系简化原理、两张程序流程图、使用说明、课程指定的正方体力系运行实例，以及单一合力、力螺旋、纯力偶和平衡力系四类补充实例。Word 版保留可编辑的数学公式。指定例题位于第 8–10 页，含题图、分量输入、主矢主矩、中心轴及程序运行截图。
 
 ## 运行
 
@@ -113,6 +113,9 @@ P(t)       = A + t u,  t ∈ R
 | `examples/04_concurrent.json` | 三个共点力，简化点取交点 | 单一合力 |
 | `examples/05_equilibrium.json` | 两个共线等大反向力 | 平衡力系 |
 | `examples/06_negative_pitch.json` | 轴向力及反向自由力偶 | 负螺距力螺旋 |
+| `examples/07_cube_assignment.json` | 课程指定的单位正方体四力系 | 力螺旋，螺距 −1/6 m |
+
+指定正方体例题可点击“打开 JSON”加载，也可运行 `python app.py --input examples/07_cube_assignment.json --report cube_report.txt`。主矢为 `(1, -1, 2) N`，对 O 的主矩为 `(0, -1, -1) N·m`；完整计算输出见 [正方体例题计算结果](docs/正方体例题计算结果.txt)。
 
 **手算 1：两个平行力。** `F1=(0,0,-100) N` 作用于 `(0,0,0) m`，`F2=(0,0,-200) N` 作用于 `(3,0,0) m`，简化点取原点，无附加力偶。
 
@@ -174,7 +177,7 @@ python -m unittest -v test_mechanics.py test_app.py
 - `app.py`：输入界面、结果展示、文件操作及命令行入口。
 - `mechanics.py`：向量运算、分类、中心轴、方向与报告计算。
 - `scene.py`：三维投影、鼠标交互与 SVG 输出。
-- `examples/`：六个可加载的 JSON 算例。
+- `examples/`：七个可加载的 JSON 算例。
 - `launch.bat`：Windows 启动脚本。
 - `requirements.txt`：说明仅需标准库。
 - `test_mechanics.py`、`test_app.py`：力学算法、项目读写与命令行测试。
